@@ -19,3 +19,7 @@ Write the `dockerfile` for the first time
 **run**
 
 `docker run -it -p 82:80 awsl:1.0 /bin/bash`
+
+**Work directory**
+
+`/app`
