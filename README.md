@@ -23,3 +23,7 @@ Write the `dockerfile` for the first time
 **Work directory**
 
 `/app`
+
+**GOPATH**
+
+`/root/package`
