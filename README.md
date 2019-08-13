@@ -5,12 +5,14 @@ Write the `dockerfile` for the first time
 
 # Version
 
-- ubuntu：18.04
+- ubuntu：18.04 / centos:7
 
 - go1.12.7.linux-amd64
 
 
 # Use
+
+`cd ubuntu` or `cd centos`
 
 **build**
 
